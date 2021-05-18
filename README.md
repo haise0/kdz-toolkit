@@ -4,10 +4,12 @@ A list of script tools, informational resources, and analysis reports for LG KDZ
 
 Disclaimer: **This is a work in progress.** 
 
-`working-status:`
-  - `kdzdumper     - somewhat`
-  - `kdzinfo       - false   `
-  - `kdzdownloader - false   `
+Working status for scripts:
+```
+kdzdumper     - somewhat
+kdzinfo       - false
+kdzdownloader - false
+```
 
 ## The Gist of Things
 LG KDZ firmware is and always has been one hell of a problem to work around. Many great people from various places all over the world and the internet have assembled over years of time in order put their minds together and work towards a common goal. Some people viewed it as rooting their phones, and some unlocking their bootloaders; others wanted to carrier unlock, or crossflash to a different set of bands. I view all of these as the same thing: 
