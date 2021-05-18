@@ -5,8 +5,8 @@ A list of script tools, informational resources, and analysis reports for LG KDZ
 Disclaimer: **This is a work in progress.** 
 
 `working-status:`
-  - `kdzdumper.    - somewhat`
-  - `kdzinfo.      - false   `
+  - `kdzdumper     - somewhat`
+  - `kdzinfo       - false   `
   - `kdzdownloader - false   `
 
 ## The Gist of Things
