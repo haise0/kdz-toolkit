@@ -32,3 +32,4 @@ kdzdownloader.py
 - [ ] Create kdzinfo.py
 - [ ] Modify kdzdownloader.py
 - [ ] Add special thanks section
+- [ ] Add analysis reports and informational resources sections
