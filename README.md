@@ -33,5 +33,13 @@ kdzdownloader.py
 - [ ] Make patches to kdzdumper.py
 - [ ] Create kdzinfo.py
 - [ ] Modify kdzdownloader.py
-- [ ] Add special thanks section
+- [x] Add special thanks section
 - [ ] Add analysis reports and informational resources sections
+
+
+## Special Thanks
+* [iscgar](https://gist.github.com/iscgar) for the updated and functional KDZ extractor and gorgeously informational tool.
+* [shinyquagsire23](https://gist.github.com/shinyquagsire23) for saving a ton of the work for us by providing an incredible base template to make something already amazing even more spectacular.
+* [steadfasterX](https://github.com/steadfasterX/) for being such an incredibly productive part of this journey since long before I ever arrived, and for paving the way and inspiring me personally to take on this kind of work with LG devices.
+* [Lekensteyn](https://github.com/Lekensteyn/) for some remarkable reverse engineering work and the original creation of LGLAF, as well as impressive documentation revolving around the LAF protocol.
+* [cxza](https://cxzstuff.blogspot.com/) for the many, many impressions he left on shaping the overall, global development of the entirety of cracking through LG's barriers, repetetively aiding numerous people in the XDA Forums, doing fantastic work with information gathering and resource extraction, and for carrying on with his help despite more often than not going unacknowledged. 
