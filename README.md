@@ -6,7 +6,7 @@ Disclaimer: **This is a work in progress.**
 
 Working status for scripts:
 ```
-kdzdumper     - somewhat
+kdz2imgs     - somewhat
 kdzinfo       - false
 kdzdownloader - false
 ```
