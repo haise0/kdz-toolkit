@@ -6,7 +6,7 @@ Disclaimer: **This is a work in progress.**
 
 Working status for scripts:
 ```
-kdz2imgs      - somewhat
+kdz2imgs      - works for most. temporary fixes in progress for others.
 kdzinfo       - false
 kdzdownloader - false
 ```
